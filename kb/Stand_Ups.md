@@ -2,42 +2,35 @@
 title: Stand_Ups
 tags: agil klassisch
 author: Gilchus
-anrechnung: k oder a
+anrechnung: a
 ---
 
-Kurzbeschreibung zu Stand_Ups um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Stand Up Meetings beschreiben Meetings bei denen jeder Teilnehmer steht. Diese Art des täglichen Aufeinandertreffens wird im Rahmen von
+Software Projekten auch als Daily Scrum bezeichnet[^1]. Überwiegend werden Stand Up Meetings in agilen Software Projekten umgesetzt, finden 
+jedoch in jeder Art von Team oder Gruppe Nutzen.[^2] 
+Dieses Kompendium befasst sich mit Stand Up Meetings in agilen Projekten. 
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+# Vorteile von Stand Up Meetings
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+Stand Up Meetings werden in agilen Projekten häufig verwendet. Der tägliche Austausch innerhalb des Teams, ermöglicht es ständig Überblick über
+den Projektfortschritt zu haben. Klassische Meetings sind häufig durch den großen zeitlichen Umfang nicht effizient[^5]. 
+Ein weiterer Vorteil der Stand Up Meetings ist die Position im Stehen. Hierdurch wird verhindert das die Teilnehmer schnell ermüden oder die 
+Aufmerksamkeit verlieren[^5]. 
 
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
+# Anwendung in SCRUM 
 
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
+Stand Ups in einem SCRUM Projekt werden als Daily Scrum bezeichnet. Daily Scrums haben einen Umfang von ca. 15 Minuten und finden jeden Tag zur 
+selben Zeit innerhalb eines Scrum Sprints statt. Teilnehmer des Daily Scrums sind ausschließlich Entwickler.
+Meist werden drei Fragen im Laufe des Daily Scrums besprochen[^1]:
+1. Woran habe ich gestern gearbeitet?
+2. Woran arbeite ich heute?
+3. Was behindert mich? / Welche Probleme habe ich?
+Diese Fragen helfen dabei den Fortschritt im derzeitigen Scrum Sprint zu sehen und, falls notwendig, den Sprint Backlog anzupassen[^3].
+Die Einbindung des Daily Scrum wird im folgenden Schaubild eines Scrum Sprints deutlich: 
 
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
+![Scrum Framework](scrum_framework.png)
 
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
-
-
-# Aspekt 1
+# Anwendung in KANBAN
 
 Aspekte zu Themen können ganz unterschiedlich sein:
 
@@ -97,8 +90,10 @@ Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+[^1]: https://www.atlassian.com/de/agile/scrum/standups (Stand: 06.11.2021)
+[^2]: https://www.wework.com/ideas/professional-development/management-leadership/what-is-a-standup-meeting (Stand: 06.11.2021)
+[^3]: https://www.scrum.org/resources/what-is-a-daily-scrum (Stand: 06.11.2021)
+[^4]: Viktoria Straya, Dag I.K. Sjøberg, Tore Dybåab. "The daily stand-up meeting: A grounded theory study" Journal of Systems and Software, Volume 114, 04/2016, pp. 101-124
+[^5]: https://projekte-leicht-gemacht.de/blog/pm-in-der-praxis/standup-meetings/ (Stand: 06.11.2021)
+[^6]: https://www.conjur.org/blog/running-a-kanban-standup-meeting/ (Stand: 06.11.2021)
 
