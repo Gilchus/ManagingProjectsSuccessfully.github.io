@@ -1,0 +1,36 @@
+---
+title: Stand_Ups
+tags: agil klassisch
+author: Gilchus
+anrechnung: a
+---
+
+Kurzbeschreibung zu Stand_Ups um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+
+Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
+oben im Front-Matter (Bereich zwischen den `---`).
+
+# Stand Ups in SCRUM 
+
+
+# Stand Ups in Kanban
+
+
+# Vorteile gegenüber klassischen Meetings
+
+
+# Siehe auch
+
+* Verlinkungen zu angrenzenden Themen
+* [Link auf diese Seite](Stand_Ups.md)
+
+# Weiterführende Literatur
+
+* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
+
+# Quellen
+
+[^1]: https://www.scrum.org/resources/what-is-a-daily-scrum (Stand: 07.11.2021)
+[^2]: https://www.wework.com/ideas/professional-development/management-leadership/what-is-a-standup-meeting (Stand: 07.11.2021)
+[^3]: https://www.conjur.org/blog/running-a-kanban-standup-meeting/ (Stand: 07.11.2021)
+[^4]: "The daily stand-up meeting: A grounded theory study", Journal of Systems and Software, vol. 114, 04/2016, pp.101-124
